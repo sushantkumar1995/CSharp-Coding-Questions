@@ -47,4 +47,28 @@ internal class TwoSumProblem
            This results in a time complexity of O(n^2) where n is the length of the 'nums' array. 
         */
     }
+
+    public static int[] TwoSumDictionary(int[] nums, int target) { 
+        
+        var dictonary = new Dictionary<int, int>();
+
+        for (int i = 0; i < nums.Length; i++)
+        {
+            int complement = target - nums[i];
+            if(dictonary.TryGetValue(complement, out int value)) {
+                return [value, i];
+            }
+            dictonary[nums[i]] = i;
+        }
+
+        return [];
+
+        /* 
+           The code snippet contains a single for loop that iterates through the 'nums' array once. 
+           In each iteration, it checks if the complement of the current element exists in the dictionary. 
+           If it does, it returns the indices of the two numbers that add up to the target. 
+           If not, it adds the current element and its index to the dictionary. 
+           This results in a time complexity of O(n) where n is the length of the 'nums' array. 
+        */
+    }
 }
