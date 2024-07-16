@@ -1,0 +1,15 @@
+C:\CSharp-Coding-Questions\CSharpCodingQuestions\CSharpCodingQuestions\bin\Debug\net8.0\CSharpCodingQuestions.exe
+C:\CSharp-Coding-Questions\CSharpCodingQuestions\CSharpCodingQuestions\bin\Debug\net8.0\CSharpCodingQuestions.deps.json
+C:\CSharp-Coding-Questions\CSharpCodingQuestions\CSharpCodingQuestions\bin\Debug\net8.0\CSharpCodingQuestions.runtimeconfig.json
+C:\CSharp-Coding-Questions\CSharpCodingQuestions\CSharpCodingQuestions\bin\Debug\net8.0\CSharpCodingQuestions.dll
+C:\CSharp-Coding-Questions\CSharpCodingQuestions\CSharpCodingQuestions\bin\Debug\net8.0\CSharpCodingQuestions.pdb
+C:\CSharp-Coding-Questions\CSharpCodingQuestions\CSharpCodingQuestions\obj\Debug\net8.0\CSharpCodingQuestions.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp-Coding-Questions\CSharpCodingQuestions\CSharpCodingQuestions\obj\Debug\net8.0\CSharpCodingQuestions.AssemblyInfoInputs.cache
+C:\CSharp-Coding-Questions\CSharpCodingQuestions\CSharpCodingQuestions\obj\Debug\net8.0\CSharpCodingQuestions.AssemblyInfo.cs
+C:\CSharp-Coding-Questions\CSharpCodingQuestions\CSharpCodingQuestions\obj\Debug\net8.0\CSharpCodingQuestions.csproj.CoreCompileInputs.cache
+C:\CSharp-Coding-Questions\CSharpCodingQuestions\CSharpCodingQuestions\obj\Debug\net8.0\CSharpCodingQuestions.sourcelink.json
+C:\CSharp-Coding-Questions\CSharpCodingQuestions\CSharpCodingQuestions\obj\Debug\net8.0\CSharpCodingQuestions.dll
+C:\CSharp-Coding-Questions\CSharpCodingQuestions\CSharpCodingQuestions\obj\Debug\net8.0\refint\CSharpCodingQuestions.dll
+C:\CSharp-Coding-Questions\CSharpCodingQuestions\CSharpCodingQuestions\obj\Debug\net8.0\CSharpCodingQuestions.pdb
+C:\CSharp-Coding-Questions\CSharpCodingQuestions\CSharpCodingQuestions\obj\Debug\net8.0\CSharpCodingQuestions.genruntimeconfig.cache
+C:\CSharp-Coding-Questions\CSharpCodingQuestions\CSharpCodingQuestions\obj\Debug\net8.0\ref\CSharpCodingQuestions.dll
