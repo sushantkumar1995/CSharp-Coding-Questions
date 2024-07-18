@@ -48,7 +48,8 @@ internal class TwoSumProblem
         */
     }
 
-    public static int[] TwoSumDictionary(int[] nums, int target) { 
+    public static int[] TwoSumDictionary(int[] nums, int target) 
+    { 
         
         var dictonary = new Dictionary<int, int>();
 
@@ -70,5 +71,34 @@ internal class TwoSumProblem
            If not, it adds the current element and its index to the dictionary. 
            This results in a time complexity of O(n) where n is the length of the 'nums' array. 
         */
+    }
+
+    public static int[] TwoSumTwoPointer(int[] nums, int target) 
+    {
+
+        (int num, int index)[] numbers = nums.Select((num, index) => (num, index)).ToArray();
+
+        Array.Sort(numbers, (a, b) => a.num.CompareTo(b.num));
+
+        int i = 0, j = nums.Length - 1;
+
+        while (i < j)
+        {
+            int sum = numbers[i].num + numbers[j].num;
+            if (sum == target)
+            {
+                return [numbers[i].index, numbers[j].index];
+            }
+            else if (sum < target)
+            {
+                i++;
+            }
+            else
+            {
+                j--;
+            }
+        }
+
+        return [];
     }
 }
