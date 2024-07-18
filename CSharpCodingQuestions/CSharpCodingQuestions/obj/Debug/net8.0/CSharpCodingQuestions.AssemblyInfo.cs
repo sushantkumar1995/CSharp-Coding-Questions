@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSharpCodingQuestions")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c9d0da8e3e7d3a3c7cda1d47b2ae17938648b700")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dbc72b7856e60bd76a23352f6ea6f5a4b451756b")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSharpCodingQuestions")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSharpCodingQuestions")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
